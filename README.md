@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">⚡ Reyloke ⚡</h1>
+<h1 align="center">⚡ Eiblame ⚡</h1>
 
 <table>
 <tr>
