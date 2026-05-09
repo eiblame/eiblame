@@ -43,10 +43,3 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExempubXhzdDl2cmMyeHhtYmp0cTQ3eHVyazR1MHU5OTBteG81eXlheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jK3MV0tbM6CF8CACq6/giphy.gif" width="500"/>
-</div>
-
-```js
-> SYSTEM ONLINE...
-> Cyberpunk Developer
-> Building dark things with code
