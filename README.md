@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🐍 Contribution Snake
+<h1 align="center">⚡ WELCOME TO MY DIGITAL VOID ⚡</h1>
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-snake.svg)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExempubXhzdDl2cmMyeHhtYmp0cTQ3eHVyazR1MHU5OTBteG81eXlheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jK3MV0tbM6CF8CACq6/giphy.gif" width="500"/>
+</div>
+
+```js
+> SYSTEM ONLINE...
+> Cyberpunk Developer
+> Building dark things with code
